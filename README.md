@@ -10,4 +10,4 @@ Before running, we must make 2 python wrappers for 2 softwares, namely apfel (fo
 
 Other tips:
 1. Do the above in your working conda environment so that the compiled wrappers match your working python version
-2. Make note of where you collinear FF and PDF grids are stored, these will need to be entered into the example.ipynb
+2. Example LHAPDF grids are included for collinear fragmentation functions, though local grids can be included (see example.ipynb)
