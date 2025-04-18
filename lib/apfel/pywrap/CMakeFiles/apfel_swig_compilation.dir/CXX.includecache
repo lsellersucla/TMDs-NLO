@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/apfel.i
+std_string.i
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/std_string.i
+std_vector.i
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/std_vector.i
+carrays.i
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/carrays.i
+APFEL/APFELevol.h
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/APFEL/APFELevol.h
+APFEL/APFELobs.h
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/APFEL/APFELobs.h
+cstddef
+-
+APFEL/APFELevol.h
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/APFEL/APFELevol.h
+APFEL/APFELobs.h
+/Users/luke/Desktop/TMDs-NLO/lib/apfel/pywrap/APFEL/APFELobs.h
+
+include/APFEL/APFELevol.h
+string
+-
+iostream
+-
+
+include/APFEL/APFELobs.h
+string
+-
+iostream
+-
+APFEL/APFELevol.h
+include/APFEL/APFEL/APFELevol.h
+

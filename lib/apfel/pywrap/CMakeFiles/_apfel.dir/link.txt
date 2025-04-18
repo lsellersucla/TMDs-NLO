@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -arch arm64 -bundle -Wl,-headerpad_max_install_names -Xlinker -undefined -Xlinker dynamic_lookup -o _apfel.so CMakeFiles/_apfel.dir/apfelPYTHON_wrap.cxx.o  -Wl,-rpath,/opt/anaconda3/envs/ml/lib ../lib/libAPFEL.0.0.0.dylib /opt/anaconda3/envs/ml/lib/libLHAPDF.dylib
