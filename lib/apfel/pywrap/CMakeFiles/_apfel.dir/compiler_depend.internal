@@ -979,9 +979,8 @@ pywrap/CMakeFiles/_apfel.dir/apfelPYTHON_wrap.cxx.o
  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h
  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stddef.h
  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdint.h
- /Users/luke/Desktop/TMDs-py/apfel/include/APFEL/APFELevol.h
- /Users/luke/Desktop/TMDs-py/apfel/include/APFEL/APFELobs.h
- /Users/luke/Desktop/TMDs-py/apfel/pywrap/apfelPYTHON_wrap.cxx
+ /Users/luke/Desktop/TMDs-NLO/lib/apfel/include/APFEL/APFELevol.h
+ /Users/luke/Desktop/TMDs-NLO/lib/apfel/include/APFEL/APFELobs.h
  /opt/anaconda3/envs/ml/include/python3.10/Python.h
  /opt/anaconda3/envs/ml/include/python3.10/abstract.h
  /opt/anaconda3/envs/ml/include/python3.10/bltinmodule.h
