@@ -7,3 +7,7 @@ Before running, we must make 2 python wrappers for 2 softwares, namely apfel (fo
 2. To clean and remake the above, simply remove the resulting .so compiled library
 3. In TMDs-NLO/lib/apfel run 'cmake .' and then 'make install'
 4. To clean and remake the above, use: 'rm -rf CMakeCache.txt CMakeFiles cmake_install.cmake Makefile CTestTestfile.cmake _deps lib'
+
+Other tips:
+1. Do the above in your working conda environment so that the compiled wrappers match your working python version
+2. Make note of where you collinear FF and PDF grids are stored, these will need to be entered into the example.ipynb
